@@ -1,0 +1,29 @@
+[33mcommit c52a2b5a57582b483ff5bbf43897435984aca1c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mfontana <fontana.murilo@gmail.com>
+Date:   Fri Sep 25 10:22:00 2020 -0300
+
+    Corrigindo nome do curso de docker
+
+[33mcommit 3d99d39274aa0f27a43eb3bb3186450dce81740c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+Author: mfontana <fontana.murilo@gmail.com>
+Date:   Thu Sep 24 18:59:33 2020 -0300
+
+    Correção
+
+[33mcommit 466cba0bb9e554fef4e5f374ae63b88af003c920[m
+Author: mfontana <fontana.murilo@gmail.com>
+Date:   Thu Sep 24 18:57:45 2020 -0300
+
+    Adicionando Git Ignore
+
+[33mcommit f3e13766fbf806dfeb5a849bba91907b2d0e3532[m
+Author: mfontana <fontana.murilo@gmail.com>
+Date:   Thu Sep 24 18:51:11 2020 -0300
+
+    Alterando index.html
+
+[33mcommit 4097c3d957aca047b4082069e5f814f6fae61e7d[m
+Author: mfontana <fontana.murilo@gmail.com>
+Date:   Thu Sep 24 18:48:42 2020 -0300
+
+    Criando arquivo index.html
